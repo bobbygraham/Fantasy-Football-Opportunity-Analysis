@@ -1,7 +1,9 @@
 # Fantasy-Football-Opportunity-Analysis
 This program seeks to assess relative performance of NFL teams against each position group.
 
-This program is for personal use only. It uses a modified version of the strength of schedule function used in college football.
+This program is for personal use only. It is written to run in Jupyter Notebooks.
+
+It uses a modified version of the strength of schedule function used in college football.
 
 https://en.wikipedia.org/wiki/Strength_of_schedule
 
