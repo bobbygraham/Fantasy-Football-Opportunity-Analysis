@@ -7,9 +7,13 @@ https://en.wikipedia.org/wiki/Strength_of_schedule
 
 This function takes as inputs Opponent-Record and Oppenent-Opponent-Record.  My methodology is that:
 
+****************************************
 Opponent-Record is replaced with Opponent-Points-Scored (Average)
+
 Opponent-Opponent-Record is replaced with Opponent-Opponent-Points-Scored (Composite Average)
+
 Strength of Schedule is replaced with Expected Points (i.e. how many points are expected for average performance)
+****************************************
 
 Thus, the equation is rewritten as:
 
